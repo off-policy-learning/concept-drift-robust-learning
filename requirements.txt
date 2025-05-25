@@ -1,0 +1,8 @@
+chex
+jax
+numpy
+pandas
+patsy
+rpy2
+scikit_learn
+scipy
