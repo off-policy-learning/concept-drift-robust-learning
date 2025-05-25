@@ -1,4 +1,4 @@
-# Distributionally Robust Policy Learning under Concept Drifts
+# Concept Drift Robust Policy Learning
 
 This repo provides the replication code of the real-world dataset experiment in the paper "Distributionally Robust Policy Learning under Concept Drifts".
 
